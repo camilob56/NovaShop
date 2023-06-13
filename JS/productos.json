@@ -1,0 +1,738 @@
+[
+    
+    {
+        "id": "jeans-01",
+        "titulo": "Jean Fit",
+        "imagen": "IMG/Jeans/jeans-01.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-02",
+        "titulo": "Jean Slim",
+        "imagen": "IMG/Jeans/jeans-02.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-03",
+        "titulo": "Jean Slim Gris Oscuro",
+        "imagen": "IMG/Jeans/jeans-03.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-04",
+        "titulo": "Jean Slim Azul Claro",
+        "imagen": "IMG/Jeans/jeans-04.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-05",
+        "titulo": "Jean Skinny Fit",
+        "imagen": "IMG/Jeans/jeans-05.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-06",
+        "titulo": "Jean Skinny Azul Intenso",
+        "imagen": "IMG/Jeans/jeans-06.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-07",
+        "titulo": "Jean Skinny Negro Fit",
+        "imagen": "IMG/Jeans/jeans-07.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-08",
+        "titulo": "Jean Carrot Azul Claro",
+        "imagen": "IMG/Jeans/jeans-08.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-09",
+        "titulo": "Jean Carrot Gris Oscuro",
+        "imagen": "IMG/Jeans/jeans-09.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "jeans-10",
+        "titulo": "Jean Carrot Azul Intenso",
+        "imagen": "IMG/Jeans/jeans-10.jpg",
+        "categoria": {
+            "nombre": "Jeans",
+            "id": "jeans"
+        },
+        "precio": "79.900"
+    },
+    
+    {
+        "id": "camisetas-01",
+        "titulo": "Camiseta Estampado Popeye",
+        "imagen": "IMG/Camisetas/camisas-01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "19.950"
+    },
+    {
+        "id": "camisetas-02",
+        "titulo": "Camiseta Estampado Warner",
+        "imagen": "IMG/Camisetas/camisas-02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-03",
+        "titulo": "Camiseta Pinky Cerebro",
+        "imagen": "IMG/Camisetas/camisas-03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-04",
+        "titulo": "Camiseta Beavis Butthead",
+        "imagen": "IMG/Camisetas/camisas-04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-05",
+        "titulo": "Camiseta Oversize",
+        "imagen": "IMG/Camisetas/camisas-05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "39.900"
+    },
+    {
+        "id": "camisetas-06",
+        "titulo": "Camiseta Estampado Pitufos",
+        "imagen": "IMG/Camisetas/camisas-06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-07",
+        "titulo": "Camiseta Estampado Chucky",
+        "imagen": "IMG/Camisetas/camisas-07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-08",
+        "titulo": "Camiseta Chucky Blanca",
+        "imagen": "IMG/Camisetas/camisas-08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-09",
+        "titulo": "Camiseta Estampado Garfield",
+        "imagen": "IMG/Camisetas/camisas-09.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-10",
+        "titulo": "Camiseta Rick and Morty",
+        "imagen": "IMG/Camisetas/camisas-10.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-11",
+        "titulo": "Camiseta Iron Maiden",
+        "imagen": "IMG/Camisetas/camisas-11.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    {
+        "id": "camisetas-12",
+        "titulo": "Camiseta Iron Maiden Negra",
+        "imagen": "IMG/Camisetas/camisas-12.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": "34.900"
+    },
+    
+    {
+        "id": "chaquetas-01",
+        "titulo": "Chaqueta Acolchada Negra",
+        "imagen": "IMG/Chaquetas/chaquetas-01.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "209.900"
+    },
+    {
+        "id": "chaquetas-02",
+        "titulo": "Chaqueta Rompevientos",
+        "imagen": "IMG/Chaquetas/chaquetas-02.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "159.900"
+    },
+    {
+        "id": "chaquetas-03",
+        "titulo": "Chaqueta Acolchada Uni",
+        "imagen": "IMG/Chaquetas/chaquetas-03.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-04",
+        "titulo": "Chaqueta Bomber",
+        "imagen": "IMG/Chaquetas/chaquetas-04.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-05",
+        "titulo": "Chaqueta Rompevientos Cap",
+        "imagen": "IMG/Chaquetas/chaquetas-05.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-06",
+        "titulo": "Chaqueta Verde Cap",
+        "imagen": "IMG/Chaquetas/chaquetas-06.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-07",
+        "titulo": "Chaqueta Azul Jean",
+        "imagen": "IMG/Chaquetas/chaquetas-07.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-08",
+        "titulo": "Chaqueta Gris Jean",
+        "imagen": "IMG/Chaquetas/chaquetas-08.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-09",
+        "titulo": "Chaqueta Negra Jean",
+        "imagen": "IMG/Chaquetas/chaquetas-09.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "169.900"
+    },
+    {
+        "id": "chaquetas-10",
+        "titulo": "Chaqueta Cuello Alto",
+        "imagen": "IMG/Chaquetas/chaquetas-10.jpg",
+        "categoria": {
+            "nombre": "Chaquetas",
+            "id": "chaquetas"
+        },
+        "precio": "159.900"
+    },
+    
+    {
+        "id": "buzos-01",
+        "titulo": "Buzo Estampado Cap",
+        "imagen": "IMG/Buzos/buzos-01.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "buzos-02",
+        "titulo": "Buzo Béisbol Cap",
+        "imagen": "IMG/Buzos/buzos-02.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "buzos-03",
+        "titulo": "Buzo Kaky Popeye",
+        "imagen": "IMG/Buzos/buzos-03.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "99.900"
+    },
+    {
+        "id": "buzos-04",
+        "titulo": "Buzo Azul Intense",
+        "imagen": "IMG/Buzos/buzos-04.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "buzos-05",
+        "titulo": "Buzo Estampado Uni",
+        "imagen": "IMG/Buzos/buzos-05.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+    {
+        "id": "buzos-06",
+        "titulo": "Buzo Estampado Negro",
+        "imagen": "IMG/Buzos/buzos-06.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+    {
+        "id": "buzos-07",
+        "titulo": "Buzo Legends",
+        "imagen": "IMG/Buzos/buzos-07.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+    {
+        "id": "buzos-08",
+        "titulo": "Buzo Land Negro",
+        "imagen": "IMG/Buzos/buzos-08.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+    {
+        "id": "buzos-09",
+        "titulo": "Buzo Stanford",
+        "imagen": "IMG/Buzos/buzos-09.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+    {
+        "id": "buzos-10",
+        "titulo": "Buzo Left Negro",
+        "imagen": "IMG/Buzos/buzos-10.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "69.900"
+    },
+    {
+        "id": "buzos-11",
+        "titulo": "Buzo Los Angeles",
+        "imagen": "IMG/Buzos/buzos-11.jpg",
+        "categoria": {
+            "nombre": "Buzos",
+            "id": "buzos"
+        },
+        "precio": "59.900"
+    },
+
+    {
+        "id": "camisas-01",
+        "titulo": "Camisa Cuadros",
+        "imagen": "IMG/Camisas/camisas-01.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-02",
+        "titulo": "Camisa Unicolor Figuras",
+        "imagen": "IMG/Camisas/camisas-02.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "camisas-03",
+        "titulo": "Camisa Cuello Sport",
+        "imagen": "IMG/Camisas/camisas-03.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "camisas-04",
+        "titulo": "Camisa Unicolor Fig",
+        "imagen": "IMG/Camisas/camisas-04.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "camisas-05",
+        "titulo": "Camisa Diamante Uni",
+        "imagen": "IMG/Camisas/camisas-05.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-06",
+        "titulo": "Camisa Larga Cuadros",
+        "imagen": "IMG/Camisas/camisas-06.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-07",
+        "titulo": "Camisa Verde Cuadros",
+        "imagen": "IMG/Camisas/camisas-07.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-08",
+        "titulo": "Camisa Roja Cuadros",
+        "imagen": "IMG/Camisas/camisas-08.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-09",
+        "titulo": "Camisa Rayas",
+        "imagen": "IMG/Camisas/camisas-09.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-10",
+        "titulo": "Camisa Rayas Blanca",
+        "imagen": "IMG/Camisas/camisas-10.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-11",
+        "titulo": "Camisa Rayas Azul",
+        "imagen": "IMG/Camisas/camisas-11.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "89.900"
+    },
+    {
+        "id": "camisas-12",
+        "titulo": "Camisa Cuadros Bolsillo",
+        "imagen": "IMG/Camisas/camisas-12.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "139.900"
+    },
+    {
+        "id": "camisas-13",
+        "titulo": "Camisa Rayas Diam",
+        "imagen": "IMG/Camisas/camisas-13.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "79.900"
+    },
+    {
+        "id": "camisas-14",
+        "titulo": "Sobrecamisa Larga Azul Uni",
+        "imagen": "IMG/Camisas/camisas-14.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "139.900"
+    },
+    {
+        "id": "camisas-15",
+        "titulo": "Sobrecamisa Cuadros Cap",
+        "imagen": "IMG/Camisas/camisas-15.jpg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": "139.900"
+    },
+    
+    {
+        "id": "tenis-01",
+        "titulo": "Tenis Urbanos",
+        "imagen": "IMG/Tenis/tenis-01.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "149.900"
+    },
+    {
+        "id": "tenis-02",
+        "titulo": "Tenis Chunky Contras",
+        "imagen": "IMG/Tenis/tenis-02.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "179.900"
+    },
+    {
+        "id": "tenis-03",
+        "titulo": "Tenis  Deportivos Contras",
+        "imagen": "IMG/Tenis/tenis-03.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "179.900"
+    },
+    {
+        "id": "tenis-04",
+        "titulo": "Tenis Urbanos Detalle Cont",
+        "imagen": "IMG/Tenis/tenis-04.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "149.900"
+    },
+    {
+        "id": "tenis-05",
+        "titulo": "Tenis Deportivos Texturas",
+        "imagen": "IMG/Tenis/tenis-05.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "149.900"
+    },
+    {
+        "id": "tenis-06",
+        "titulo": "Tenis Urbanos Basicos",
+        "imagen": "IMG/Tenis/tenis-06.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "189.900"
+    },
+    {
+        "id": "tenis-07",
+        "titulo": "Tenis Urbanos Texturas Col",
+        "imagen": "IMG/Tenis/tenis-07.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "189.900"
+    },
+    {
+        "id": "tenis-09",
+        "titulo": "Tenis Urbanos Vans",
+        "imagen": "IMG/Tenis/tenis-09.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "149.900"
+    },
+    {
+        "id": "tenis-10",
+        "titulo": "Tenis Fit",
+        "imagen": "IMG/Tenis/tenis-10.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "179.900"
+    },
+    {
+        "id": "tenis-11",
+        "titulo": "Tenis Fit Estelar",
+        "imagen": "IMG/Tenis/tenis-11.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "139.900"
+    },
+    {
+        "id": "tenis-12",
+        "titulo": "Tenis Urbanos Caiman",
+        "imagen": "IMG/Tenis/tenis-12.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "139.900"
+    },
+    {
+        "id": "tenis-13",
+        "titulo": "Tenis Fit Texturas",
+        "imagen": "IMG/Tenis/tenis-13.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "179.900"
+    },
+    {
+        "id": "tenis-14",
+        "titulo": "Tenis Urbanos Baise",
+        "imagen": "IMG/Tenis/tenis-14.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "139.900"
+    },
+    {
+        "id": "tenis-15",
+        "titulo": "Tenis Urbanos Cafe",
+        "imagen": "IMG/Tenis/tenis-15.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "149.900"
+    },
+    {
+        "id": "tenis-16",
+        "titulo": "Tenis Chunky Largo",
+        "imagen": "IMG/Tenis/tenis-16.jpg",
+        "categoria": {
+            "nombre": "Tenis",
+            "id": "tenis"
+        },
+        "precio": "59.900"
+    }
+]
